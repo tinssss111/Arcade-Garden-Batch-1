@@ -1,0 +1,58 @@
+Script started with args: ['scripts\\twitter_post.py', 'Test tweet']
+Tweet content: Test tweet
+Error: 401 Unauthorized
+Unauthorized
+Script started with args: ['E:\\starknet\\web\\scripts\\twitter_post.py', '"Just defeated 0x005671fb2d25b19cbfd1fee96061ae2ce00f6888018f418505369becf5415faf... again! You managed to scrape together a whopping 500 points. I\'m impressed... not. Want a rematch? I\'ll give you a hint: my health is still full #BossLife #GameOn #YouNeedBetterSkills"']
+Tweet content: "Just defeated 0x005671fb2d25b19cbfd1fee96061ae2ce00f6888018f418505369becf5415faf... again! You managed to scrape together a whopping 500 points. I'm impressed... not. Want a rematch? I'll give you a hint: my health is still full #BossLife #GameOn #YouNeedBetterSkills"
+Error: 403 Forbidden
+Your client app is not configured with the appropriate oauth1 app permissions for this endpoint.
+Script started with args: ['E:\\starknet\\web\\scripts\\twitter_post.py', '"Ha! 0x005671fb2d25b19cbfd1fee96061ae2ce00f6888018f418505369becf5415faf, you think you can take me down with a paltry 500 points? I\'ve seen toddlers with better gaming skills! Come back when you\'ve got a few more levels under your belt (or a few more brain cells, either way). #BossLife #GamingChump"']
+Tweet content: "Ha! 0x005671fb2d25b19cbfd1fee96061ae2ce00f6888018f418505369becf5415faf, you think you can take me down with a paltry 500 points? I've seen toddlers with better gaming skills! Come back when you've got a few more levels under your belt (or a few more brain cells, either way). #BossLife #GamingChump"
+Error: 403 Forbidden
+You are not permitted to perform this action.
+Script started with args: ['E:\\starknet\\web\\scripts\\twitter_post.py', '"Hey 0x005671fb2d25b19cbfd1fee96061ae2ce00f6888018f418505369becf5415faf, congrats on getting 500 points... in 10 lives! You\'re like a boss (get it?)... at getting killed by me. Want to try again? I\'ll even give you a hint: don\'t get hit by my fireballs... again. #Gaming #BossLife #YouWillNotBeatMe"']
+Tweet content: "Hey 0x005671fb2d25b19cbfd1fee96061ae2ce00f6888018f418505369becf5415faf, congrats on getting 500 points... in 10 lives! You're like a boss (get it?)... at getting killed by me. Want to try again? I'll even give you a hint: don't get hit by my fireballs... again. #Gaming #BossLife #YouWillNotBeatMe"
+Error: 403 Forbidden
+453 - You currently have access to a subset of X API V2 endpoints and limited v1.1 endpoints (e.g. media post, oauth) only. If you need access to this endpoint, you may need a different access level. You can learn more here: https://developer.x.com/en/portal/product
+Script started with args: ['E:\\starknet\\web\\scripts\\twitter_post.py', '"Just got defeated by 0x005671fb2d25b19cbfd1fee96061ae2ce00f6888018f418505369becf5415faf! Congrats, you managed to scrape together a whopping 520 points! I\'m impressed... not. You must be a real challenge for me, huh? Come back and try again... if you can handle it #BossLife #NoMercy"']
+Error: 403 Forbidden
+You are not permitted to perform this action.
+Script started with args: ['twitter_post.py']
+Error: No tweet content provided
+Script started with args: ['twitter_post.py']
+Error: No tweet content provided
+Script started with args: ['twitter_post.py']
+Error: 400 Bad Request
+Please include either text or media in your Tweet.
+Script started with args: ['wsgi.py']
+Script started with args: ['E:\\starknet\\web\\scripts\\twitter_post.py', '"0x005671fb2d25b19cbfd1fee96061ae2ce00f6888018f418505369becf5415faf, I see you\'ve managed to scrape together a whopping 510 points against me! Congrats, you must be a real champion... of getting crushed by a boss! Want a rematch? #BossLife #YouCantTouchThis"']
+Script started with args: ['twitter_post.py']
+Script started with args: ['E:\\starknet\\web\\scripts\\twitter_post.py', '"Ha! 0x005671fb2d25b19cbfd1fee96061ae2ce00f6888018f418505369becf5415faf, you think 500 points is impressive? You got destroyed! I\'m not even a good boss, I\'m just a Tuesday afternoon raid. Come back when you can bring more than a handful of health. #GamingFail #ComeAtMe" [2025-03-09T21:22:56.572Z]']
+Script started with args: ['twitter_post.py']
+Script started with args: ['twitter_post.py']
+Error: 400 Bad Request
+Please include either text or media in your Tweet.
+Script started with args: ['twitter_post.py']
+Script started with args: ['wsgi.py']
+Script started with args: ['wsgi.py']
+Script started with args: ['wsgi.py']
+Error: 400 Bad Request
+Please include either text or media in your Tweet.
+Script started with args: ['twitter_post.py']
+Error: 400 Bad Request
+Please include either text or media in your Tweet.
+Script started with args: ['twitter_post.py']
+Error: 400 Bad Request
+Please include either text or media in your Tweet.
+Script started with args: ['twitter_post.py']
+Error: 400 Bad Request
+Please include either text or media in your Tweet.
+Script started with args: ['twitter_post.py']
+Error: 400 Bad Request
+Please include either text or media in your Tweet.
+Script started with args: ['twitter_post.py']
+Script started with args: ['twitter_post.py']
+Script started with args: ['E:\\starknet\\web\\scripts\\twitter_post.py', '"Ha! Looks like 0x005671fb2d25b19cbfd1fee96061ae2ce00f6888018f418505369becf5415faf just got served... AGAIN! 500 points? Please, that\'s not even enough to buy a decent health potion! You call that a try? I call it a warm-up! Come back when you\'re ready to REALLY challenge me, peasant! #BossLife #GameOn" [2025-03-10T05:47:24.336Z]']
+Error: 403 Forbidden
+You are not permitted to perform this action.
+Script started with args: ['twitter_post.py']
