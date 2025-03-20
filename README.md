@@ -14,7 +14,7 @@ A space-themed blockchain game built with Next.js and Starknet integration.
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:tinssss111/Arcade-Garden-Batch-1.git
    cd web
    ```
 2. Install dependencies:
